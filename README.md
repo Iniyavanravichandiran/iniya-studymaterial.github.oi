@@ -7,9 +7,8 @@ This portal was developed to enhance accessibility to academic resources at **S.
 
 ## 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3, JavaScript (Responsive UI)
-* **Backend logic:** Core Java
-* **Tools:** MS Office for document organization
-
+* **Tools:** VS Code
+  
 ## ✨ Key Features
 * **Department-Wise Access:** Organized study resources for all engineering departments.
 * **Comprehensive Material:** Includes Textbooks (PDFs), Previous Year Question Papers, and Lab Manuals.
