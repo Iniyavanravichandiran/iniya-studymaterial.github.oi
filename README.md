@@ -1,76 +1,22 @@
-📚 Iniya Study Material Website
+# 📚 College Study Materials Portal
 
-This project is a simple study material website created using HTML and CSS.
-It provides organized academic resources for different departments and semesters to help students easily access learning materials.
+A web-based platform designed to provide comprehensive academic resources for B.Tech students from **1st to 8th semester** across all departments.
 
-🌐 Live Website
+## 🚀 Project Overview
+This portal was developed to enhance accessibility to academic resources at **S.K.P Engineering College**. It supports effective self-learning by centralizing essential materials in one responsive location.
 
-Visit the website:
-https://iniyavanravichandiran.github.io/iniya-studymaterial.github.io
+## 🛠️ Tech Stack
+* **Frontend:** HTML5, CSS3, JavaScript (Responsive UI)
+* **Backend logic:** Core Java
+* **Tools:** MS Office for document organization
 
-🚀 Features
+## ✨ Key Features
+* **Department-Wise Access:** Organized study resources for all engineering departments.
+* **Comprehensive Material:** Includes Textbooks (PDFs), Previous Year Question Papers, and Lab Manuals.
+* **Interactive UI:** Designed for high accessibility and smooth navigation for junior students.
 
-📂 Department-wise study materials
-
-📖 Semester-wise organization
-
-🖥️ Simple and responsive design
-
-⚡ Fast loading static website
-
-🎓 Useful for college students to access notes and materials
-
-🛠️ Technologies Used
-
-HTML5 – Structure of the website
-
-CSS3 – Styling and layout
-
-GitHub Pages – Hosting the website
-
-📁 Project Structure
-iniya-studymaterial.github.io
-│
-├── index.html        # Main homepage
-├── home.html         # Home page content
-├── dept.css          # Department page styles
-├── sem.css           # Semester page styles
-├── MECH-21/          # Mechanical department materials
-├── MECH-25/          # Mechanical department materials
-├── previos/          # Previous materials
-└── README.md
-💡 Purpose of the Project
-
-The goal of this project is to:
-
-Provide easy access to study materials
-
-Help students prepare for exams
-
-Create a centralized academic resource platform
-
-📸 Screenshots
-
-You can add screenshots of the website here to show how it looks.
-
-(Add website screenshots here)
-👨‍💻 Author
-
-Iniyavan Ravichandiran
-B.Tech Information Technology Graduate (2025)
-
-📧 Email: iniyavanr11@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/iniyavanravichandiran
-
-🐙 GitHub: https://github.com/iniyavanravichandiran
-
-⭐ Support
-
-If you find this project useful:
-
-⭐ Star this repository
-
-🍴 Fork the project
-
-📢 Share it with students
+## 👤 Author
+**Iniyavan Ravichandiran**
+* 🎓 B.Tech Information Technology (2025 Graduate)
+* 📍 Chennai, Tamil Nadu
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/iniyavanravichandiran-5659021b6)
